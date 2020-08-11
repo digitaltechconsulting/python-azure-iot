@@ -56,4 +56,12 @@ while True:
 Source: https://circuitpython.readthedocs.io/projects/bme280/en/latest/
 
 
+**[Youtube Video](https://youtu.be/t6-BSeavXSA)**
 
+00:00 Introduction
+00:27 Build Circuit 
+03:35 Script to read sensor data
+04:02 FileZilla Configuration
+05:23 Circuitpython sample code
+07:05 Install adafruit-circuitpython-bme280 library
+07:44 Run Script - python read-sensor-data.py
