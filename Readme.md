@@ -1,6 +1,6 @@
-**Python Script To Read weather Data**
+#Python Script To Read Weather Data
 
-In this sample, I will how you how to build [simple circuit](https://github.com/BuildAzure/BuildAzure.IoT.Adafruit.BME280) to collect weather data from [BME 280 sensor](https://core-electronics.com.au/adafruit-bme280-i2c-or-spi-temperature-humidity-pressure-sensor.html?utm_source=google_shopping&gclid=Cj0KCQjwvb75BRD1ARIsAP6LcqtezeB4Wn_Dn_3IYdkcl1I6dAAZWYlhJrbtzBnTKmmClYgyOd5UCuUaAhSJEALw_wcB).  We will use [Adafruit BME280 Library](https://circuitpython.readthedocs.io/projects/bme280/en/latest/) to collect this data.  Subsequently, we will feed this data to Azure IoT hub using [azure-iot-sdk-python](https://github.com/Azure/azure-iot-sdk-python/tree/master/azure-iot-device)
+In this sample, I will show you how to build [simple circuit](https://github.com/BuildAzure/BuildAzure.IoT.Adafruit.BME280) to collect weather data from [BME 280 sensor](https://core-electronics.com.au/adafruit-bme280-i2c-or-spi-temperature-humidity-pressure-sensor.html?utm_source=google_shopping&gclid=Cj0KCQjwvb75BRD1ARIsAP6LcqtezeB4Wn_Dn_3IYdkcl1I6dAAZWYlhJrbtzBnTKmmClYgyOd5UCuUaAhSJEALw_wcB).  We will use [Adafruit BME280 Library](https://circuitpython.readthedocs.io/projects/bme280/en/latest/) to collect this data.  Subsequently, we will feed this data to Azure IoT hub using [azure-iot-sdk-python](https://github.com/Azure/azure-iot-sdk-python/tree/master/azure-iot-device)
 
 **Circuit diagram**
 
